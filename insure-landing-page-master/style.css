@@ -2,6 +2,8 @@
 
 *{
     box-sizing: border-box;
+    margin:0;
+    padding:0;
 }
 
 :root {
@@ -16,7 +18,7 @@
 body {
     color: var(--dark-violet);
     font-family: 'Karla', sans-serif;
-    margin: 0;
+   
 
 }
 
@@ -221,3 +223,5 @@ footer li a{
     border-bottom: 1px solid var(--greyish-blue);
     margin-bottom: 30px;
 }
+
+/* Responsive */
